@@ -27,7 +27,7 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 
 ---
 
-## 📂 Highlighted Academic & Personal Projects
+## Highlighted Academic & Personal Projects
 
 ### [QuizCraft (DST Practice Platform)](https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft)
 *   **Description:** A specialized practice platform designed to assist students in preparing for academic examinations.
@@ -46,6 +46,6 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 
 ---
 
-## 📬 Professional Contacts
+## Professional Contacts
 *   **Email:** naruepon.san@student.mahidol.edu
 *   **GitHub:** github.com/NarueponMU
