@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34875762/README.md)
-<!-- ========================= HEADER ========================= -->
+[README.md](https://github.com/user-attachments/files/34875896/README.md)[Uploading REA<!-- ========================= HEADER ========================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Naruepon%20Santipapchai&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Security-Minded&descSize=16&descAlignY=58&animation=fadeIn" alt="Naruepon Santipapchai" width="100%" />
 </p>
@@ -20,18 +19,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarueponMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top languages" />
-
 An aspiring **Full-Stack Software Developer** passionate about building robust web/mobile applications, implementing practical Machine Learning models, and ensuring system security. Experienced in Agile environments and effective task management.
 
-- 🎓 Information and Communication Technology (ICT) / Digital Science and Technology (DST), **Mahidol University**
+- 🎓 **2nd-Year Undergraduate** — Information and Communication Technology (ICT) / Digital Science and Technology (DST), **Mahidol University**
 - 🌐 Building full-stack apps with **React, Next.js, Node.js & Flutter**
 - 🤖 Exploring **Machine Learning** with Scikit-Learn and TensorFlow/Keras
 - 🛡️ Hands-on with **network security** and penetration testing fundamentals
 - 🔌 Tinkering with **IoT & embedded systems** on ESP32 and Arduino
 - 📋 Comfortable working in **Agile** teams with Jira
-
-<br clear="right" />
 
 ---
 
@@ -89,12 +84,8 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarueponMU&repo=ITDS283_Sec2_Gr16_QuizCraft&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="QuizCraft" />
-  </a>
-  <a href="https://github.com/NarueponMU/Section2_Group8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NarueponMU&repo=Section2_Group8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coffee Shop Web Application" />
-  </a>
+  <a href="https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft"><img width="49%" src="https://opengraph.githubassets.com/1/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft" alt="QuizCraft" /></a>
+  <a href="https://github.com/NarueponMU/Section2_Group8"><img width="49%" src="https://opengraph.githubassets.com/1/NarueponMU/Section2_Group8" alt="Coffee Shop Web Application" /></a>
 </p>
 
 | Project | Description | Tech Stack | Key Learning |
@@ -108,7 +99,6 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NarueponMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=NarueponMU&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
@@ -131,3 +121,4 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="footer" width="100%" />
 </p>
+DME.md…]()
