@@ -24,7 +24,7 @@
 
 An aspiring **Full-Stack Software Developer** passionate about building robust web/mobile applications, implementing practical Machine Learning models, and ensuring system security. Experienced in Agile environments and effective task management.
 
-- 🎓 **2nd-Year Undergraduate** — Information and Communication Technology (ICT) / Digital Science and Technology (DST), **Mahidol University**
+- 🎓 Information and Communication Technology (ICT) / Digital Science and Technology (DST), **Mahidol University**
 - 🌐 Building full-stack apps with **React, Next.js, Node.js & Flutter**
 - 🤖 Exploring **Machine Learning** with Scikit-Learn and TensorFlow/Keras
 - 🛡️ Hands-on with **network security** and penetration testing fundamentals
