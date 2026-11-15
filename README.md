@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34875896/README.md)[Uploading REA<!-- ========================= HEADER ========================= -->
+[README.md](https://github.com/user-attachments/files/34875896/README.md)[Uploading README.md…]()<!-- ========================= HEADER ========================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Naruepon%20Santipapchai&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Security-Minded&descSize=16&descAlignY=58&animation=fadeIn" alt="Naruepon Santipapchai" width="100%" />
 </p>
@@ -121,4 +121,3 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="footer" width="100%" />
 </p>
-DME.md…]()
