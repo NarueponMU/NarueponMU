@@ -1,4 +1,5 @@
-
+[README.md](https://github.com/user-attachments/files/34875959/README.md)
+<!-- ========================= HEADER ========================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Naruepon%20Santipapchai&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Security-Minded&descSize=16&descAlignY=58&animation=fadeIn" alt="Naruepon Santipapchai" width="100%" />
 </p>
@@ -93,18 +94,6 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 | 📝 **[QuizCraft](https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft)**<br><sub>DST Practice Platform</sub> | A practice platform that helps students prepare for academic examinations. | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | State management, UX design, cross-platform mobile development |
 | ☕ **[Coffee Shop Web App](https://github.com/NarueponMU/Section2_Group8)** | A full-stack web app with product browsing, shopping workflows and management systems. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Component architecture, RESTful APIs, full-stack flow control |
 | 🎟️ **Event Management System**<br><sub>Concept</sub> | A student activity platform that streamlines the entire registration workflow. | ![Full-Stack](https://img.shields.io/badge/Full--Stack-2C5364?style=flat-square) | System analysis, database schema design, workflow automation |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=NarueponMU&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NarueponMU&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" />
-</p>
 
 ---
 
