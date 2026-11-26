@@ -22,16 +22,16 @@
 
 An aspiring **Full-Stack Software Developer** passionate about building robust web/mobile applications, implementing practical Machine Learning models, and ensuring system security. Experienced in Agile environments and effective task management.
 
-- 🎓 Studying **Information and Communication Technology (ICT)** — Digital Science and Technology (DST) at **Mahidol University**
-- 🌐 Building full-stack apps with **React, Next.js, Node.js & Flutter**
-- 🤖 Exploring **Machine Learning** with Scikit-Learn and TensorFlow/Keras
-- 🛡️ Hands-on with **network security** and penetration testing fundamentals
-- 🔌 Tinkering with **IoT & embedded systems** on ESP32 and Arduino
-- 📋 Comfortable working in **Agile** teams with Jira
+- Studying **Information and Communication Technology (ICT)** — Digital Science and Technology (DST) at **Mahidol University**
+- Building full-stack apps with **React, Next.js, Node.js & Flutter**
+- Exploring **Machine Learning** with Scikit-Learn and TensorFlow/Keras
+- Hands-on with **network security** and penetration testing fundamentals
+- Tinkering with **IoT & embedded systems** on ESP32 and Arduino
+- Comfortable working in **Agile** teams with Jira
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft"><img width="49%" src="https://opengraph.githubassets.com/1/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft" alt="QuizCraft" /></a>
@@ -91,13 +91,13 @@ An aspiring **Full-Stack Software Developer** passionate about building robust w
 
 | Project | Description | Tech Stack | Key Learning |
 | :--- | :--- | :--- | :--- |
-| 📝 **[QuizCraft](https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft)**<br><sub>DST Practice Platform</sub> | A practice platform that helps students prepare for academic examinations. | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | State management, UX design, cross-platform mobile development |
-| ☕ **[Coffee Shop Web App](https://github.com/NarueponMU/Section2_Group8)** | A full-stack web app with product browsing, shopping workflows and management systems. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Component architecture, RESTful APIs, full-stack flow control |
-| 🎟️ **Event Management System**<br><sub>Concept</sub> | A student activity platform that streamlines the entire registration workflow. | ![Full-Stack](https://img.shields.io/badge/Full--Stack-2C5364?style=flat-square) | System analysis, database schema design, workflow automation |
+| **[QuizCraft](https://github.com/NarueponMU/ITDS283_Sec2_Gr16_QuizCraft)**<br><sub>DST Practice Platform</sub> | A practice platform that helps students prepare for academic examinations. | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | State management, UX design, cross-platform mobile development |
+| **[Coffee Shop Web App](https://github.com/NarueponMU/Section2_Group8)** | A full-stack web app with product browsing, shopping workflows and management systems. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Component architecture, RESTful APIs, full-stack flow control |
+| **Event Management System**<br><sub>Concept</sub> | A student activity platform that streamlines the entire registration workflow. | ![Full-Stack](https://img.shields.io/badge/Full--Stack-2C5364?style=flat-square) | System analysis, database schema design, workflow automation |
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:naruepon.san@student.mahidol.edu"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
